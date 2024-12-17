@@ -1,16 +1,43 @@
-# wordpress_flutter
+# 📰 Intégration des Articles WordPress dans une Application Flutter
 
-A new Flutter project.
+## 🎯 Objectif
+Créer une application **Android** et **iOS** avec **Flutter** qui récupère et affiche les articles d'un site **WordPress** grâce à son API REST.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎥 Démonstration
 
-A few resources to get you started if this is your first Flutter project:
+Regardez la démonstration complète en vidéo :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[![Voir la vidéo](https://img.youtube.com/vi/38NKSfWNU4c/0.jpg)](https://youtu.be/38NKSfWNU4c)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Technologies Utilisées
+
+- **Flutter** : Framework pour développer des applications multiplateformes.
+- **API REST WordPress** : Permet d’accéder aux articles du site.
+
+---
+
+## 🚀 Fonctionnalités
+
+- Récupération dynamique des articles WordPress.
+- Affichage stylisé des titres et contenus d'articles.
+- Compatibilité **Android** et **iOS** avec une seule base de code.
+
+---
+
+## 🌐 Avantages
+
+- Optimisez la présence de votre contenu **WordPress** sur mobile.
+- Développement rapide et efficace grâce à **Flutter**.
+- Interface moderne et adaptable.
+
+---
+
+### 📽️ Vidéo Complémentaire
+
+[Regarder la vidéo complète ici](https://youtu.be/38NKSfWNU4c).
+
+---
